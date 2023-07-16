@@ -3,11 +3,11 @@
 
 PowerShell-based code and documentation.
 
-[Comment-based Help](#Comment-based-Help)
+* [Comment-based Help](#Comment-based-Help)
 
-​	[Comment-based Help in Functions](##comment-based-help-in-functions)
+  * [Comment-based Help in Functions](#comment-based-help-in-functions)
 
-​	[Comment-based Help in Scripts](##comment-based-help-in-scripts)
+  * [Comment-based Help in Scripts](#comment-based-help-in-scripts)
 
 # Comment-based Help
 
