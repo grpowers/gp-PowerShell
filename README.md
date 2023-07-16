@@ -5,6 +5,10 @@ PowerShell-based code and documentation.
 
 [Comment-based Help](#Comment-based-Help)
 
+​	[Comment-based Help in Functions](#comment-based-help-in-functions)
+
+​	[Comment-based Help in Scripts](#comment-based-help-in-scripts)
+
 # Comment-based Help
 
 The comment-based Help found within all code in the repository, will adhere to Microsoft's guidelines for comment-based Help concerning both scripts and functions. For more details, please visit the following [Microsoft Learn documentation][mslearn1]:
