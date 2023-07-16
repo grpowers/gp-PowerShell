@@ -61,7 +61,7 @@ The comment-based Help found within all code in the repository, will adhere to M
 
 *If the first item in the script body (after the Help) is a function declaration, there must be at least two blank lines between the end of the script Help and the function declaration. Otherwise, the Help is interpreted as being Help for the function, not Help for the script.*
 
-**Examples of Help *Scripts***
+**Examples of Help *Scripts*:**
 
 * **Beginning of a Script**
 
